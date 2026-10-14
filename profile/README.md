@@ -44,7 +44,7 @@ Schools already collect assessment results, gradebook exports, benchmark data, a
 
 ### How it works
 
-Start with one anonymized export. No system integrations required.
+Start with one gradebook export. No system integrations required.
 
 | Step | What happens |
 | :--- | :--- |
@@ -65,7 +65,7 @@ ScholarED isn't an LMS, gradebook, curriculum platform, chatbot, or autonomous d
 
 ### Pilot ScholarED at your school
 
-Start with one grade level or class: upload one anonymized export, review the surfaced patterns, assign support ownership, and compare academic evidence in the next cycle.
+Start with one grade level or class: upload one gradebook export, review the surfaced patterns, assign support ownership, and compare academic evidence in the next cycle.
 
 **[Discuss a school pilot →](https://scholared.education/school-pilot)**
 
