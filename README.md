@@ -10,4 +10,4 @@ This repository holds the public GitHub profile and default community files for 
 | `brand/social-preview.png` | Repository social preview image (1280 × 640) |
 | `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md` | Default policies for repositories in the organization |
 
-The SVG files embed Plus Jakarta Sans (SIL Open Font License 1.1) so their text renders consistently everywhere. After editing an SVG in `brand/`, re-export its PNG at the size listed above.
+The SVG files draw their text as outlines from Newsreader and Source Sans 3 (SIL Open Font License 1.1), so they render the same everywhere. After editing an SVG in `brand/`, re-export its PNG at the size listed above.
