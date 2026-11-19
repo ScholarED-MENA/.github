@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScholarED-MENA/.github/main/profile/assets/banner-dark.svg">
-  <img alt="scholared, Academic support platform" src="https://raw.githubusercontent.com/ScholarED-MENA/.github/main/profile/assets/banner-light.svg" width="100%">
+  <img alt="Scholared, Academic support platform" src="https://raw.githubusercontent.com/ScholarED-MENA/.github/main/profile/assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
